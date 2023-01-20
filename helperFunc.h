@@ -1,0 +1,19 @@
+/**
+*
+* Solution to course project # 4
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2022/2023
+*
+* @author Stefka Lyaskalieva
+* @idnumber 4MI0600158
+* @compiler VC
+*
+* <file with helper functions>
+*
+*/
+#pragma once
+int getCountOfDigits(int num);
+void mySetW(int num);
+int powerOfTen(int exp);
+void convertIntToString(int num, char* str);
